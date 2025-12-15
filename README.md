@@ -4,7 +4,7 @@
 [![AgentSpec downloads][badge-dl]][downloads] [![AgentSpec docs][badge-docs]][docs] [![AgentSpec Reference Sheet][badge-reference-sheet]][reference-sheet] [![License][badge-license]](#license)
 
 
-# Open Agent Specification
+# Open Agent  Specification
 
 Agent Spec is a portable, platform-agnostic configuration language that allows Agents
 and Agentic Systems to be described with sufficient fidelity.
